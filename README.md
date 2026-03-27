@@ -93,6 +93,7 @@ Explore community-driven extensions that expand LatentMAS into new domains, arch
 
 ### 🛰️ 6. AVP (Agent Vector Protocol)
 **By VectorArc**
+- **Blog:** https://blog.avprotocol.ai/avp-binary-protocol-latent-agent-communication/
 - **Code:** https://github.com/VectorArc/avp-python
 - **New Features:** Enables agents to share KV-cache and hidden states instead of text, supporting zero-training latent handoff, cross-model transfer, and faster multi-agent collaboration.
 
